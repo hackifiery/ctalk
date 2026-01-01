@@ -1,0 +1,2 @@
+#define every
+#define such ;

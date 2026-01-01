@@ -1,0 +1,12 @@
+#define of
+#define a
+#define an
+#define with
+#define that
+#define is
+#define to
+#define than
+#define then
+#define by
+#define execute
+#define the
