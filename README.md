@@ -1,4 +1,4 @@
-### ctalk
+# ctalk
 ctalk is a collection of macros and typedefs that make your c programs more verbose.
 ## Example: bubblesort (in `test.c`):
 ctalk makes this:
