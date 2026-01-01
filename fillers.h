@@ -10,3 +10,6 @@
 #define by
 #define execute
 #define the
+#define which
+#define some
+#define as
